@@ -1,0 +1,40 @@
+
+#label-listagem {
+    -fx-font-size: 30px;
+    -fx-padding: 20 0 10 10;
+}
+
+#label-progresso {
+    -fx-translate-x: 485;
+    -fx-translate-y: 30;	
+}
+
+.table-view {
+    -fx-min-width: 665;
+    -fx-max-width: 665;
+}
+
+.table-column {
+    -fx-padding: 0 0 0 10;
+}
+
+#vbox {
+    -fx-padding: 70 0 0 10;
+}
+
+.button {
+    -fx-translate-x: 575;
+    -fx-translate-y: 25;
+    -fx-background-color: rgb(31, 149, 206);
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-background-color: rgba(31, 149, 206, 0.71);
+}
+
+#label-footer {
+    -fx-font-size: 15px;
+    -fx-translate-x: 210;
+    -fx-translate-y: 480;
+}

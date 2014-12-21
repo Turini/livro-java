@@ -1,0 +1,6 @@
+io/TesteEntrada.class
+io/TesteSaida.class
+io/Exportador.class
+repositorio/RepositorioDeProdutos.class
+application/Main.class
+db/ConnectionFactory.class
